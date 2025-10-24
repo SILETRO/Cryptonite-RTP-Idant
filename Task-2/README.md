@@ -19,7 +19,7 @@ This project implements machine learning models to detect fraudulent online tran
 | Decision Tree Classifier       | 0.999384 | 0.684527  | 0.969562 | 0.802486 | 0.984492 |
 | Decision Tree Classifier Tuned | 0.999389 | 0.686494  | 0.969562 | 0.803836 | 0.984495 |
 | Random Forest Classifier       | 0.999212 | 0.626582  | 0.964286 | 0.759591 | 0.981771 |
-k
+
 Tuned decision tree model performed the best overall
 
 # Clustering
